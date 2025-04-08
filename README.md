@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm Mamidipalli Rama Chandra Kashyap
 
 ## 🚀 About Me
-I am a **Software Engineer** with a passion for **Artificial Intelligence, Machine Learning, and Data Engineering**. My expertise includes **Deep Learning, NLP, Quantum Computing, and Cloud Data Platforms**.
+I am a **Data Engineer** driven by a deep passion for transforming data into actionable insights and optimizing data workflows. My expertise includes designing and optimizing data pipelines, working with cloud platforms like Snowflake utilizing tools such as Databricks, dbt, and Airflow, and implementing machine learning algorithms and AI models."
 
 - 🔭 Currently working as a **Data Engineer**
 - 🎯 Exploring **Generative AI and Advanced Big Data Applications**
 - 🏗️ Building **AI-driven chatbots and automated data pipelines**
 - 🌱 Learning **dbt, advanced indexing, and optimization techniques**
-- 💡 Interested in **Notion, AI startups, and entrepreneurial opportunities**
 
 ## 🛠 Tech Stack & Skills
 - **Programming:** Python, SQL, JavaScript
@@ -18,7 +17,7 @@ I am a **Software Engineer** with a passion for **Artificial Intelligence, Machi
 
 ## 📌 Current Projects
 - 🚀 **AI Chatbot**: Fine-tuned with **Text-to-SQL**, integrating Data Engineering capabilities
-- 🔗 **Automated LinkedIn Job Scraper**: Uses **Snowflake** to run daily jobs & send job updates
+- 🔗 ** Data Pipeline for Airbnb Data Ingestion, Transformation, and Visualization
 - ⚛️ **Quantum Machine Learning (QML)**: A **Streamlit-based QML project** for digit classification
 
 ## 📫 Let's Connect!
