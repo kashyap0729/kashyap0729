@@ -25,7 +25,7 @@ I build **robust, scalable software systems**. My expertise spans across:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/14-1lLxiRWAzFj9r-ZePYak343xVkxX8i/view">
-    <img src="https://img.shields.io/badge/doc-0F2027?style=for-the-badge&logo=github&logoColor=F5E6C8" />
+    <img src="https://img.shields.io/badge/Resume-0F2027?style=for-the-badge&logo=doc&logoColor=F5E6C8" />
   </a>
   <a href="https://www.linkedin.com/in/kashyapmrc/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
