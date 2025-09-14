@@ -33,7 +33,7 @@ I build **robust, scalable software systems**. My expertise spans across:
   <a href="mailto:kashyapmrc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D95F43?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kashyap0729.github.io/portfolio/">
+  <a href="[https://kashyap0729.github.io/portfolio/](https://rama-chandra-kashyap-mamidipalli-portfolio-393267571012.us-west1.run.app/)">
     <img src="https://img.shields.io/badge/Portfolio-F5E6C8?style=for-the-badge&logo=firefox&logoColor=D95F43" />
   </a>
 </p>
