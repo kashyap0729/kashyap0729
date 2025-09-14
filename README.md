@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6C8,100:D95F43&height=180&section=header&text=RAMA%20CHANDRA%20KASHYAP%20MAMIDIPALLI&fontSize=32&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&fontAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6C8,100:F5E6C8&height=180&section=header&text=RAMA%20CHANDRA%20KASHYAP%20MAMIDIPALLI&fontSize=32&fontColor=0F2027&fontAlignY=35&animation=fadeIn&fontAlign=50"/>
 </p>
 
 <h3 align="center" style="color:#D95F43;">🚀 Software Engineer | Backend & Data Engineering | AI/ML Enthusiast</h3>
