@@ -1,92 +1,92 @@
-# 🎉 Hey there, I’m Kashyap! 👋
+# Rama Chandra Kashyap Mamidipalli  
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" align="right"/>
-
-✨ *Builder of scalable systems, wrangler of data pipelines, and occasional AI tinkerer.*  
-💻 Software Engineer | 🚀 AI Enthusiast | ☁️ Cloud Explorer  
+**Software Engineer | Backend & Data Engineering | AI/ML Enthusiast**  
+📍 Piscataway, NJ | ✉️ [kashyapmrc@gmail.com](mailto:kashyapmrc@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kashyapmrc/) | [Portfolio](https://kashyap0729.github.io/portfolio/) | [GitHub](https://github.com/kashyap0729)  
 
 ---
 
-## 🧑‍💻 About Me  
+## 👨‍💻 About Me  
 
-- 🔧 4+ years of experience building **robust backend systems** and **data platforms**.  
-- ⚡ Skilled in **Python, Java, SQL, Kafka, dbt, and Snowflake**.  
-- 🤖 Love experimenting with **AI/ML**, from **LLM fine-tuning** to **custom image generation**.  
-- ☁️ Deploying, automating, and scaling apps on **AWS** with **CI/CD pipelines**.  
-- 🎨 Recently tinkering with **LangChain, RAG, and AI-driven marketing engines**.  
+I’m a Software Engineer with over four years of experience designing and delivering **scalable backend systems**, **data-intensive applications**, and **AI-driven solutions**.  
 
-> *For me, software engineering is about solving complex problems with elegant, lasting solutions.*  
-
----
-
-## 🚀 Featured Projects  
-
-### 🤖 AI & ML  
-- 🌀 [**Naruto-Style Art Generator**](https://github.com/kashyap0729/Latent-Diffusion-Model-of-Modern-Disney-to-Naruto)  
-  *Fine-tuned Stable Diffusion to generate anime-style art with a Streamlit UI.*  
-
-- 🗄️ [**Text-to-SQL LLM Fine-Tuning**](https://github.com/kashyap0729/TextToSQL-Finetune)  
-  *Trained LLaMA & DeepSeek models to turn natural language into SQL.*  
-
-- 💡 [**AutoMACE: AI Marketing Content Engine**](https://github.com/kashyap0729/automace-ai-marketing-content-engine)  
-  *End-to-end AI platform generating marketing content & video ads.*  
+- Strong expertise in **Python, Java, SQL, and cloud technologies (AWS, Snowflake, Kafka)**.  
+- Experience across the **full development lifecycle**: design, implementation, testing, deployment, and automation.  
+- Proven track record in **data migration, real-time event processing, and CI/CD automation**.  
+- Passionate about **AI/ML**, with hands-on work in **LLM fine-tuning, RAG systems, and generative models**.  
 
 ---
 
-### 🛠️ Data Engineering  
-- 🏡 [**Airbnb Analytics Pipeline**](https://github.com/kashyap0729/Airbnb-Analytics-with-DBT-Data-Build-Tool)  
-  *S3 → Snowflake with dbt + Dagster, full ELT flow with analytics dashboards.*  
+## 💼 Experience  
 
-- 🍔 [**FoodTruck Agent**](https://github.com/kashyap0729/FoodTruckAgent)  
-  *Sentiment-aware RAG chatbot built with **Snowflake Cortex + Mistral**.*  
+**Software Engineer (Data Backend)** @ Value Momentum | Piscataway, NJ  
+*Apr 2024 – Mar 2025*  
+- Built **dbt-based ELT pipelines** in Snowflake (2TB/day), cutting data latency by 32%.  
+- Developed a **data quality framework** with Great Expectations, improving reliability by 40%.  
+- Re-architected a **Kafka ingestion system**, reducing p99 latency by 70%.  
+- Automated CI/CD with Jenkins, reducing deployment from hours to minutes.  
 
----
+**Software Engineer (Backend Data Migration)** @ Value Momentum | Piscataway, NJ  
+*Dec 2020 – Jun 2023*  
+- Migrated **10TB of customer data** to MongoDB with zero downtime, saving 25% in infra costs.  
+- Built Java Spring Boot microservices serving **500,000+ users**, cutting API response times by 40%.  
+- Engineered a **data mastering algorithm**, saving $50K annually.  
 
-### 🌐 Full-Stack Fun  
-- 🎭 [**Vivid Vibes (MERN Event Platform)**](https://github.com/kashyap0729/VividVibesProject)  
-- 🎬 [**Cornetto Trilogy Fan Page**](https://github.com/kashyap0729/CornettoTrio)  
-- 🐱 [**Super Kung-Fu Kitty (Unity Game)**](https://simmer.io/@kashyap0729/super-kung-fu-kitty)  
-
----
-
-### 🔮 Quantum Playground  
-- 🧩 [**Quantum MNIST Classifier (QCNN)**](https://github.com/kashyap0729/Quantum_Machine_Learning)  
-- 🔑 [**QKD BB84 Protocol in Qiskit**](https://www.irjet.net/archives/V7/i8/IRJET-V7I8438.pdf)  
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages & Frameworks:**  
-`Python` · `Java` · `SQL` · `JavaScript/TypeScript` · `React` · `Spring Boot`  
-
-**Data & Backend:**  
-`Kafka` · `Snowflake` · `dbt` · `Airflow` · `MongoDB` · `Redis`  
-
-**Cloud & DevOps:**  
-`AWS (S3, EMR, Glue)` · `Docker` · `Terraform` · `Jenkins` · `GitHub Actions`  
-
-**AI & ML:**  
-`PyTorch` · `TensorFlow` · `LangChain` · `LLM Fine-Tuning` · `RAG`  
+**SQL Developer (Query Optimization & Report Automation)** @ Ridhan Technologies | Hyderabad, India  
+*May 2020 – Nov 2020*  
+- Optimized SQL queries, reducing execution times by 39%.  
+- Automated reporting, saving 8 hours of manual work per week.  
 
 ---
 
-## 🌱 Currently Learning  
+## 🚀 Projects  
 
-- 🧠 Advanced LLM fine-tuning techniques  
-- 📊 Real-time analytics with **Kafka + Snowflake**  
-- 🎨 UI/UX design & storytelling through products  
+### AI & Machine Learning  
+- [**Naruto-Style Art Generator**](https://github.com/kashyap0729/Latent-Diffusion-Model-of-Modern-Disney-to-Naruto) — Fine-tuned Stable Diffusion for anime art.  
+- [**Text-to-SQL Fine-Tuning**](https://github.com/kashyap0729/TextToSQL-Finetune) — Trained LLaMA & DeepSeek models to convert NL queries to SQL.  
+- [**AutoMACE (AI Marketing Engine)**](https://github.com/kashyap0729/automace-ai-marketing-content-engine) — AI-powered content & ad generation platform.  
+
+### Data Engineering  
+- [**Airbnb Data Pipeline**](https://github.com/kashyap0729/Airbnb-Analytics-with-DBT-Data-Build-Tool) — End-to-end S3 → Snowflake ELT with dbt + Dagster.  
+- [**FoodTruck Agent**](https://github.com/kashyap0729/FoodTruckAgent) — Sentiment-aware chatbot using Snowflake Cortex + Mistral.  
+
+### Full-Stack & Quantum  
+- [**Vivid Vibes (MERN Event Platform)**](https://github.com/kashyap0729/VividVibesProject)  
+- [**Super Kung-Fu Kitty (Unity Game)**](https://simmer.io/@kashyap0729/super-kung-fu-kitty)  
+- [**Quantum MNIST Classifier (QCNN)**](https://github.com/kashyap0729/Quantum_Machine_Learning)  
 
 ---
 
-## 🌎 Connect with Me  
+## 🛠️ Skills  
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blueviolet?style=for-the-badge)](https://kashyap0729.github.io/portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashyapmrc/)  
-[![GitHub](https://img.shields.io/badge/🐙-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kashyap0729)  
-[![Email](https://img.shields.io/badge/✉️-Email-red?style=for-the-badge&logo=gmail)](mailto:kashyapmrc@gmail.com)  
+**Languages & Frameworks:** Python, Java, SQL, JavaScript/TypeScript, React, Spring Boot  
+**Backend & Databases:** Kafka, Snowflake, MongoDB, MySQL, Redis  
+**Cloud & DevOps:** AWS (S3, EMR, Glue), Docker, Terraform, Jenkins, GitHub Actions  
+**AI & Data Tools:** dbt, Dagster, Airflow, PySpark, PyTorch, TensorFlow, LLM Fine-Tuning, RAG  
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+## 🎓 Education  
 
+**Northeastern University** — *MS in Information Systems* (Sep 2023 – May 2025)  
+GPA: 3.6 / 4.0 | Coursework: Web Technologies, Quantum Computing, Generative AI  
+
+**GITAM Deemed University** — *B.Tech in Computer Science* (Jun 2016 – Jun 2020)  
+GPA: 3.5 / 4.0 | Coursework: System Design, Networking, Data Structures & Algorithms  
+
+---
+
+## 📝 Publications  
+
+- **QKD Algorithm BB84 Protocol in Qiskit** — IRJET, Aug 2020  
+- **Message Encryption using Hybrid Cryptography** — IRJET, Jan 2020  
+
+---
+
+## 📫 Let’s Connect  
+
+- Portfolio: [kashyap0729.github.io/portfolio](https://kashyap0729.github.io/portfolio/)  
+- LinkedIn: [linkedin.com/in/kashyapmrc](https://www.linkedin.com/in/kashyapmrc/)  
+- GitHub: [github.com/kashyap0729](https://github.com/kashyap0729)  
+- Email: [kashyapmrc@gmail.com](mailto:kashyapmrc@gmail.com)  
+
+---
