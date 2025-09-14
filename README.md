@@ -94,5 +94,5 @@ I build **robust, scalable software systems**. My expertise spans across:
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D95F43,100:F5E6C8&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:D95F43,50:D95F43&height=120&section=footer"/>
 </p>
