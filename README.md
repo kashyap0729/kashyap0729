@@ -83,9 +83,9 @@ I build **robust, scalable software systems**. My expertise spans across:
 </p>
 
 ---
-
-## 🏆 GitHub Trophies  
 <!--
+## 🏆 GitHub Trophies  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kashyap0729&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </p>
